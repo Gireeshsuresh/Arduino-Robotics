@@ -1,0 +1,3 @@
+[submodule "Accemeter"]
+	path = Accemeter
+	url = https://github.com/Gireeshsuresh/Arduino-Robotics.git
